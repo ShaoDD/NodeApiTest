@@ -1,0 +1,1 @@
+define(["jquery","flexible"],function(e,n){e(function(){console.log(123)})});
